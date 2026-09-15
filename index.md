@@ -2,6 +2,7 @@
 layout: default
 title: NeuroImaging
 ---
+<img src="presentations/logo.jpeg" alt="Logo NeuroImaging" width="150">
 
 # NeuroImaging
 
