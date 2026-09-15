@@ -10,9 +10,9 @@ title: Next meetings
 # Next meetings
 
 65) 25 Sept. 2026
-    67) 16 Oct. 2026: Céline Provins, MRIQC & Defacing, Switzerland
-68) 27 Nov. 2026: Hélène Ratiney, Creatis Lab
-69) 18 Dec. 2026
+66) 16 Oct. 2026: Céline Provins, MRIQC & Defacing, Switzerland
+67) 27 Nov. 2026: Hélène Ratiney, Creatis Lab
+68) 18 Dec. 2026
 70) 22 Jan. 2027: special meeting for new students & new colleagues @CRNL
 71) 12 Feb. 2027
 72) 26 March 2027
