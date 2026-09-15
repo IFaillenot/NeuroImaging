@@ -10,6 +10,6 @@ title: NeuroImaging
 
 ---
 
-Bienvenue sur le site du groupe NeuroImaging.
+Bienvenue sur le site du Club des NeuroImageurs.
 
 Décrivez ici brièvement l'objectif du groupe, le contexte du projet, ou toute information générale utile aux visiteurs.
