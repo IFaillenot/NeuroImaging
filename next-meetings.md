@@ -10,7 +10,6 @@ title: Next meetings
 # Next meetings
 
 n°65. 25 Sept. 2026
-
 n°66. 16 Oct. 2026: Céline Provins, MRIQC & Defacing, Switzerland
 n°67. 27 Nov. 2026: Hélène Ratiney, Creatis Lab
 n°68. 18 Dec. 2026
