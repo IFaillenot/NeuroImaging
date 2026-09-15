@@ -13,4 +13,7 @@ Liste des réunions passées et présentations associées (PDF / PPT télécharg
 
 - **JJ/MM/AAAA** — Titre de la présentation — [PDF](presentations/nom-du-fichier.pdf) / [PPTX](presentations/nom-du-fichier.pptx)
 
+older meetings : lien vers OSF
+even older : lean vers wiki CRNL 
+
 Pour ajouter une présentation : déposez le fichier dans le dossier `presentations/`, puis ajoutez une ligne ci-dessus avec un lien relatif vers ce fichier.
