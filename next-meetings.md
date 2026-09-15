@@ -14,9 +14,9 @@ title: Next meetings
 67. 27 Nov. 2026: Hélène Ratiney, Creatis Lab
 68. 18 Dec. 2026
 22 Jan. 2027: special meeting for new students & new colleagues @CRNL
-71) 12 Feb. 2027
-72) 26 March 2027
-73) 30 April 2027
-74) 28 May 2027
-75) 25 June 2027
+12 Feb. 2027
+26 March 2027
+30 April 2027
+28 May 2027
+25 June 2027
 
